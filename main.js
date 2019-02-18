@@ -55,7 +55,7 @@ var httprequestService = /** @class */ (function () {
         this.http = http;
     }
     httprequestService.prototype.sendGet = function (url) {
-        return this.http.get('https://vicinity.bavenir.eu:3000/api/' + url)
+        return this.http.get('https://commserver.vicinity.ws:3000/api/' + url)
             .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["map"])(function (response) {
             // console.log(response)
             return response;
