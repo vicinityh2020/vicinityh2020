@@ -55,7 +55,7 @@ var httprequestService = /** @class */ (function () {
         this.http = http;
     }
     httprequestService.prototype.sendGet = function (url) {
-        return this.http.get('https://commserver.vicinity.ws:3000/api/' + url)
+        return this.http.get('https://api.vicinity.bavenir.eu/api/' + url)
             .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["map"])(function (response) {
             // console.log(response)
             return response;
@@ -809,7 +809,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/jorgealmela/Documents/Projects/vicinity/landingPage/vicinityh2020/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /Users/jorgealmela/Documents/projects/vicinity/vicinity_landing_page/src/main.ts */"./src/main.ts");
 
 
 /***/ })

@@ -539,7 +539,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/jorgealmela/Documents/Projects/vicinity/landingPage/vicinityh2020/src/styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /Users/jorgealmela/Documents/projects/vicinity/vicinity_landing_page/src/styles.css */"./src/styles.css");
 
 
 /***/ })
