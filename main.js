@@ -634,7 +634,7 @@ module.exports = ".to-bottom{\n  position: absolute;\n  bottom: 0;\n}\n\n.to-lef
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div id=\"preloader\">\n    <div id=\"preloader-inner\"></div>\n</div><!--/preloader-->\n\n<!-- Navigation menu -->\n  <app-navigation></app-navigation>\n\n<!-- Default view -->\n  <app-home></app-home>\n\n<!-- All views -->\n<main class=\"main-content\">\n    <app-kpis></app-kpis>\n    <app-whyus></app-whyus>\n    <app-integration></app-integration>\n    <app-users></app-users>\n    <app-documentation></app-documentation>\n</main><!--main-content-->\n\n<footer class=\"footer-custom\">\n  <app-footer></app-footer>\n</footer>\n\n<!--back to top-->\n<a href=\"#\" class=\"back-to-top\" id=\"back-to-top\"><i class=\"icon-chevron-up\"></i></a>\n"
+module.exports = "<div id=\"preloader\">\n    <div id=\"preloader-inner\"></div>\n</div><!--/preloader-->\n\n<!-- Navigation menu -->\n  <app-navigation></app-navigation>\n\n<!-- Default view -->\n  <app-home></app-home>\n\n<!-- All views -->\n<main class=\"main-content\">\n    <app-kpis></app-kpis>\n    <app-whyus></app-whyus>\n    <app-integration></app-integration>\n    <app-users></app-users>\n    <app-documentation></app-documentation>\n</main><!--main-content-->\n\n<footer class=\"footer-custom\">\n  <app-footer></app-footer>\n</footer>\n\n<!--back to top-->\n<!-- <a href=\"#\" class=\"back-to-top\" id=\"back-to-top\"><i class=\"icon-chevron-up\"></i></a> -->\n"
 
 /***/ }),
 
